@@ -1,4 +1,4 @@
-package com.loktra_assign2.purpletea_assignment.POJOS
+package com.loktra_assign2.purpletea_assignment.pojos
 
 import android.animation.AnimatorSet
 

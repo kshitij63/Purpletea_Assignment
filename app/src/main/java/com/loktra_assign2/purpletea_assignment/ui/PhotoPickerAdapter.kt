@@ -1,11 +1,12 @@
-package com.loktra_assign2.purpletea_assignment
+package com.loktra_assign2.purpletea_assignment.ui
 
 import android.content.Context
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.loktra_assign2.purpletea_assignment.POJOS.PhotoPickerObject
+import com.loktra_assign2.purpletea_assignment.pojos.PhotoPickerObject
+import com.loktra_assign2.purpletea_assignment.R
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.single_photo_view.view.*
 

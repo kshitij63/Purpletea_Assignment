@@ -1,6 +1,4 @@
-package com.loktra_assign2.purpletea_assignment.POJOS
-
-import android.support.v7.widget.DialogTitle
+package com.loktra_assign2.purpletea_assignment.pojos
 
 /**
  * Created by user on 5/16/2018.

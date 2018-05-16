@@ -1,8 +1,7 @@
-package com.loktra_assign2.purpletea_assignment
+package com.loktra_assign2.purpletea_assignment.network
 
-import com.loktra_assign2.purpletea_assignment.POJOS.FlickrObject
+import com.loktra_assign2.purpletea_assignment.pojos.FlickrObject
 import io.reactivex.Observable
-import retrofit2.Call
 import retrofit2.http.*
 
 /**
